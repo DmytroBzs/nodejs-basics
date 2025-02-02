@@ -1,0 +1,23 @@
+[33mcommit b01ec8900a3dffdeff0fccd2d323149aa6da2605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DmytroBzs <godimmortalis@gmail.com>
+Date:   Fri Jan 31 19:41:33 2025 +0200
+
+    sort and pagination add
+
+[33mcommit 45ba8b639924ae6762dd9bfcca5d559b5654e955[m
+Author: DmytroBzs <godimmortalis@gmail.com>
+Date:   Wed Jan 29 12:37:44 2025 +0200
+
+    pagination beginning
+
+[33mcommit 047a6fbaf13be0048b987ad7d521a5bfa6abc6bd[m
+Author: DmytroBzs <godimmortalis@gmail.com>
+Date:   Mon Jan 20 14:37:57 2025 +0200
+
+    fixed
+
+[33mcommit 49f94ba9159bf5ba10ded1166fbc573045b8b1f5[m
+Author: DmytroBzs <godimmortalis@gmail.com>
+Date:   Mon Jan 20 14:26:38 2025 +0200
+
+    first commit
